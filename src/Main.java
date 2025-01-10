@@ -6,9 +6,14 @@ public class Main {
 
     }
 static  void sum(int num1 , int num2){
+    System.out.println("adding new adadadad");
+    System.out.println("adding new adadadad");
+    System.out.println("adding new adadadad");
+    System.out.println("adding new adadadad");
 
 }
 static void divide(int num1 , int num2){
+    System.out.println("adding new adadadad");
 
 }
 }
